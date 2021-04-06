@@ -20,7 +20,7 @@ body,input,textarea {
   line-height: 1.6;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h4,h5,h6 {
   font-weight: 500;
 }
 
@@ -380,6 +380,15 @@ img {
   display: grid;
   grid-template-columns: 1fr;
   gap: 5rem;
+}
+
+.about .title2 {
+  font-size: 2rem;
+  color: rgb(95, 205, 209);
+  font-weight: 600;
+  margin-top: 0.5rem;
+  text-align: center;
+  
 }
 
 .about .subtitle{
