@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c6feb87837136a46fb8cd9e5592e8b8c",
+  "assets/AssetManifest.json": "03bb283b681d9fc52baa022509ddbb3f",
 "assets/assets/icons/andriod-studio.svg": "aec690ee3cadffd51314f852ec206703",
+"assets/assets/icons/appium.svg": "bdb7cc8f2e2f710fc4ccf5d274a443a2",
 "assets/assets/icons/aws.svg": "4ad8d13a3ab55ca22b54bdb9f8632295",
 "assets/assets/icons/dart.svg": "20d7b82998ddc6f73a4310bf58e609df",
 "assets/assets/icons/dynamodb.svg": "664de9fd8ebe7c17c50d6bca719197a8",
@@ -15,6 +16,7 @@ const RESOURCES = {
 "assets/assets/icons/lambda.svg": "17d010b521f51669e4e9417221cb20f1",
 "assets/assets/icons/linkedin.svg": "2c20928ddc18c3e2ac70e6f8f38ca825",
 "assets/assets/icons/nodejs.svg": "e4ddbe1a57d161bfb593c7e2ba40d345",
+"assets/assets/icons/selenium.svg": "a2600271c0bcd9a0abba392931f1f656",
 "assets/assets/icons/vscode.svg": "2c2b59fdbff9bf14176982fda623ad5c",
 "assets/assets/images/profile.jpg": "0bd1025d777afe65db2634b1e82992f3",
 "assets/assets/pdf/VineethV.pdf": "319c1e6083ecd8f0d71da8cca8872d9a",
@@ -33,9 +35,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "467a47f8f7789b805cd1f4d43163cdde",
-"/": "467a47f8f7789b805cd1f4d43163cdde",
-"main.dart.js": "e883ed8fcaa527222c67082136f74bdd",
+"index.html": "e913630d273bd1d093502233a003b3fe",
+"/": "e913630d273bd1d093502233a003b3fe",
+"main.dart.js": "09d5eafd140830022ff031b05b676ffd",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
